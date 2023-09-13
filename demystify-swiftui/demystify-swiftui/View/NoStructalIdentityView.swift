@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  NoStructalIdentityView.swift
 //  demystify-swiftui
 //
 //  Created by zumin you on 2023/09/13.
@@ -7,8 +7,9 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct NoStructalIdentityView: View {
     @State private var isActive = false
+    
     var body: some View {
         VStack {
             if isActive {
@@ -35,8 +36,8 @@ struct ContentView: View {
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct NoStructalIdentityView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        NoStructalIdentityView()
     }
 }

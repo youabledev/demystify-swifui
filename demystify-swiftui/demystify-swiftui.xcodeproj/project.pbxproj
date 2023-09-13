@@ -17,6 +17,8 @@
 		6C5DA0402AB0BE9100A47D21 /* EmojiStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5DA03F2AB0BE9100A47D21 /* EmojiStackView.swift */; };
 		6C5DA0422AB0C03800A47D21 /* IEmojiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5DA0412AB0C03800A47D21 /* IEmojiView.swift */; };
 		6C5DA0442AB0C08B00A47D21 /* IEmojiStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5DA0432AB0C08B00A47D21 /* IEmojiStackView.swift */; };
+		6C5DA0462AB1B6F800A47D21 /* StructalIdentityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5DA0452AB1B6F800A47D21 /* StructalIdentityView.swift */; };
+		6C5DA0482AB1B74900A47D21 /* NoStructalIdentityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5DA0472AB1B74900A47D21 /* NoStructalIdentityView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +33,8 @@
 		6C5DA03F2AB0BE9100A47D21 /* EmojiStackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiStackView.swift; sourceTree = "<group>"; };
 		6C5DA0412AB0C03800A47D21 /* IEmojiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IEmojiView.swift; sourceTree = "<group>"; };
 		6C5DA0432AB0C08B00A47D21 /* IEmojiStackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IEmojiStackView.swift; sourceTree = "<group>"; };
+		6C5DA0452AB1B6F800A47D21 /* StructalIdentityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructalIdentityView.swift; sourceTree = "<group>"; };
+		6C5DA0472AB1B74900A47D21 /* NoStructalIdentityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoStructalIdentityView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +101,8 @@
 				6C5DA03F2AB0BE9100A47D21 /* EmojiStackView.swift */,
 				6C5DA0412AB0C03800A47D21 /* IEmojiView.swift */,
 				6C5DA0432AB0C08B00A47D21 /* IEmojiStackView.swift */,
+				6C5DA0452AB1B6F800A47D21 /* StructalIdentityView.swift */,
+				6C5DA0472AB1B74900A47D21 /* NoStructalIdentityView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -174,9 +180,11 @@
 				6C5DA03B2AB0BDA100A47D21 /* IEmoji.swift in Sources */,
 				6C5DA0392AB0BD7D00A47D21 /* Emoji.swift in Sources */,
 				6C5DA0402AB0BE9100A47D21 /* EmojiStackView.swift in Sources */,
+				6C5DA0482AB1B74900A47D21 /* NoStructalIdentityView.swift in Sources */,
 				6C5DA02C2AB0BD2100A47D21 /* ContentView.swift in Sources */,
 				6C5DA02A2AB0BD2100A47D21 /* demystify_swiftuiApp.swift in Sources */,
 				6C5DA0422AB0C03800A47D21 /* IEmojiView.swift in Sources */,
+				6C5DA0462AB1B6F800A47D21 /* StructalIdentityView.swift in Sources */,
 				6C5DA0442AB0C08B00A47D21 /* IEmojiStackView.swift in Sources */,
 				6C5DA03E2AB0BDF100A47D21 /* EmojiView.swift in Sources */,
 			);
